@@ -1,0 +1,2 @@
+# GitHub Pages: publica también la carpeta .well-known (necesaria para el APK de Android).
+include: [".well-known"]
