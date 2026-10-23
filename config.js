@@ -5,4 +5,4 @@
  * (termina en /exec). La encuentras en Apps Script:
  *   Implementar → Gestionar implementaciones → copiar "URL de la aplicación web".
  */
-window.TVS_API = 'https://script.google.com/macros/s/AKfycbyzDu1AKiCHHJI_66zEmqzeNgoOwRyPm5HsCR3lRVC3N-O_-6AYncKjsfQbRIJ0BE8ujw/exec';
+window.TVS_API = 'https://script.google.com/macros/s/AKfycbyxiz4rdw6sNOz4yRMQGIYdTEN4C88TgJSubbJqvfGJ5RINedS8hxVx77Eyj2I_9sZzYQ/exec';
